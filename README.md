@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi ! My name Wesley! Welcome to my  GitHub page !
 
 <!--
 **jwesleyaraujo/jwesleyaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
