@@ -1,8 +1,10 @@
-### Hi ! My name Wesley! Welcome to my  GitHub page !
-
 <img src="https://github.com/jwesleyaraujo/jwesleyaraujo/blob/main/web.png">
 
-![Wesley Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+### Hi ! My name Wesley! Welcome to my  GitHub page !
+
+🌱 I’m currently learning web development from Udemy and The Odin Project
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
