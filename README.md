@@ -1,5 +1,7 @@
 ### Hi ! My name Wesley! Welcome to my  GitHub page !
 
+<img src="https://github.com/jwesleyaraujo/jwesleyaraujo/blob/main/web.png">
+
 ![Wesley Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
