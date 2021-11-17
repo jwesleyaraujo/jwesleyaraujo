@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning web development from Udemy and The Odin Project
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwesleyaraujo)](https://github.com/jwesleyaraujo/github-readme-stats)
+[![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwesleyaraujo)](https://github.com/jwesleyaraujo/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwesleyaraujo&layout=compact)](https://github.com/jwesleyaraujo/github-readme-stats)
